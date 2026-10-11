@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+langchain
+langchain-google-genai
+langchain-pinecone
+pinecone-client
+pydantic-settings
+nest_asyncio
+pyngrok
